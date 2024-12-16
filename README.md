@@ -20,7 +20,8 @@ O projeto abrange:
 - **Modelo Conceitual:** Criação de uma estrutura lógica representando as entidades e seus relacionamentos.
 - **Modelo Físico:** Implementação do modelo conceitual no sistema de gerenciamento de banco de dados (MySQL).
 - **Consultas Analíticas:** Desenvolvimento de queries SQL para extrair informações estratégicas e gerar insights para a tomada de decisão.
-## Estrutura do Banco de Dados
+  
+## Diagrama de Entidade e Relacionamento
 Com a necessidade de mapear as entidades, bem como o relacionamento entre elas, foi desenvolvido o Diagrama de Entidade e Relacionamento para facilitar o desenvolvimento do banco de dados:
 
 ![Diagrama de entidade e relacionamento](imagens/ModeloERR.png)
